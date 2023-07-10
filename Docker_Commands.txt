@@ -6,3 +6,8 @@ docker ps
 docker ps -a
 docker pull
 docker run -it --name
+docker start <container-name>
+docker stop <container-name>
+docker rm <container-name>
+docker rename <old-name> <new-name>
+
