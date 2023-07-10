@@ -1,0 +1,8 @@
+Docker-Commands
+
+docker run -it ubuntu /bin/bash
+docker images
+docker ps
+docker ps -a
+docker pull
+docker run -it --name
